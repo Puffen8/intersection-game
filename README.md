@@ -1,5 +1,4 @@
 # Intersection
-
 A 2D infinite game where the player scores by avoiding vehicle collisions.  
 Built with a simple game loop and a responsive Swing UI.
 
@@ -27,7 +26,7 @@ Built with a simple game loop and a responsive Swing UI.
 - OpenJDK / Oracle JDK 22 installed
 - Recommended IDE: IntelliJ IDEA
 
-## Quick start
+## How to run
 
 ```bash
 # 1) Clone the repository
@@ -40,4 +39,4 @@ javac -d bin src/*.java
 # Run
 java -cp bin:res Main     # Linux/Mac
 java -cp bin;res Main     # Windows (note the semicolon)
-
+```
