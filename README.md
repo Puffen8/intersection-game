@@ -1,4 +1,4 @@
-# Intersection
+# Intersection Game
 A 2D infinite game where the player scores by avoiding vehicle collisions.  
 Built with a simple game loop and a responsive Swing UI.
 
@@ -30,8 +30,8 @@ Built with a simple game loop and a responsive Swing UI.
 
 ```bash
 # 1) Clone the repository
-git clone git@github.com:Puffen8/IntersectionGame.git
-cd IntersectionGame
+git clone git@github.com:Puffen8/intersection-game.git
+cd intersection-game
 
 # 2a) Compile
 javac -d bin src/*.java
